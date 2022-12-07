@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m @vardanrajput</h1>
+<h1 align="center">Hi, I’m Vardan Rajput</h1>
 
 
 - 👀 I’m interested in **Artificial Intelligence and Data Science**
